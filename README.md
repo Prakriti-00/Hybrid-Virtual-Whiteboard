@@ -9,6 +9,9 @@ This project implements a real-time virtual whiteboard that allows users to draw
 * Clear canvas using "C" gesture
 * Real-time performance using MediaPipe and ResNet-18
 
+demo-
+* https://drive.google.com/file/d/1IC16V5FjDZnMJdu3sFFDzVjJLL4xCSJj/view?usp=sharing
+
 ## Approach
 
 The system uses a hybrid architecture:
